@@ -3,6 +3,10 @@
 ## Demo Website
 [Demo Website](https://ninja-smoothies-d1d93.firebaseapp.com/)
 
+![Home](docs/images/index.jpg "Homepage screenshot")
+
+![Edit](docs/images/edit.jpg "EditSmoothie screenshot")
+
 ## Project setup
 ```
 npm install

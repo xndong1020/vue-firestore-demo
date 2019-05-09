@@ -1,5 +1,8 @@
 # ninja-smoothies
 
+## Demo Website
+[Demo Website](https://ninja-smoothies-d1d93.firebaseapp.com/)
+
 ## Project setup
 ```
 npm install
@@ -15,7 +18,7 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
+### 
 ```
 npm run test
 ```
@@ -25,5 +28,8 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Deploy (Please make sure your have firebase-tools installed globally)
+```js
+npm run build
+firebase deploy
+```
